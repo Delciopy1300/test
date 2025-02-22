@@ -1,0 +1,13 @@
+anotações delcio
+
+estamos aprendendo a fazer tabelas em html
+
+tag principal:  <table> </table> indica o inicio de criação de tabela
+
+tr indica linha na tabela
+th indica dados do titulo na tabela
+td indica dados na tabela
+
+td e tr podem ser colspan e 
+colspan difine quantas colunas vai ocupar
+difine quantas linhas vai ocupar
